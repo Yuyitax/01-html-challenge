@@ -18,11 +18,13 @@ WHEN I view the source code:
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-## Notes:
+## Extras:
 
-The following image demonstrates the web application's appearance at 992px or smaller:
+All of the commentary for what was done, changed, or replaced can be found in detail inside both the HTML and CSS files. 
 
-![On an online store's webpage, four cards are split into two rows and two columns.](./Images/01-product-columns.png)
+The following image demonstrates the web application's appearance at 992px width:
+
+![On an online webpage, split into a top row and two columns, one for the main content and one sidebar.](./Develop/assets/images/final-look)
 
 
 ---
